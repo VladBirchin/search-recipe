@@ -81,7 +81,7 @@ to:
 
 ### Search Page
 
-![Search Page](screenshots/search-page.png)
+![Search Page](screenshots/recipe-detail.png)
 
 ### Recipes Page
 
@@ -89,4 +89,4 @@ to:
 
 ### Recipe Details Page
 
-![Recipe Details Page](screenshots/recipe-details.png)
+![Recipe Details Page](screenshots/search-page.png)
